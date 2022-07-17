@@ -63,3 +63,13 @@ So, we check if the size of the bits string is multiple of 8 or not by checking 
 
 Finally, we added a **pseudo EOF character**, and we chose it out of the ASCII table in the human readable range so we are not limiting the user to not use any ASCII characters.
 
+## References
+
+*1. [Huffman coding, from WikiWorld](https://www.wikiwand.com/en/Huffman_coding)*
+
+
+*2. [Huffman coding, from Stanford](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1176/assnFiles/assign6/huffman-encoding-supplement.pdf)*
+
+---
+
+<h3 align='center'> Made with :heart:</h3>
