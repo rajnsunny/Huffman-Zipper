@@ -72,4 +72,4 @@ Finally, we added a **pseudo EOF character**, and we chose it out of the ASCII t
 
 ---
 
-<h3 align='center'> Made with :heart:</h3>
+
